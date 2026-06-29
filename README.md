@@ -6,7 +6,7 @@
 ##  ##   ##    ##  ## ##   ## ######
 ```
 
-# Synthasize Me
+# Synthesize Me
 
 **Free music sequencer, drum machine & synth for Windows - by [KVRNL](https://kvrnl.io).**
 
